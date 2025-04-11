@@ -8,40 +8,6 @@
 ### 💻 Programming Languages
 
 #### Frontend:
-- 🌐 HTML, CSS, JavaScript
-
-#### Backend:
-- 💻 Python  
-- 🖥 C, C++
-
----
-
-### 📊 Concepts & Skills
-
-- 🧠 Machine Learning (SVM, Logistic Regression)  
-- 💡 OOP in C/C++ and Python  
-- 🔧 Problem Solving & Algorithm Development  
-
----
-
-### 🛠 Tools I Use
-
-- 📝 VS Code  
-- 🐙 Git & GitHub  
-- 📊 Jupyter Notebook (for ML work)
-
----
-
-### 🖥️ Frameworks & Libraries
-
-- 📦 Flask, Django (Python)  
-- 🔍 scikit-learn, NumPy, pandas (Machine Learning & Data Analysis)
-
----
-
-### 💻 Programming Languages
-
-#### Frontend:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
