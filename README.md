@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Vijaylande14
+### 👋 Hi, I’m Vijay Lande
 
 - 👀 I’m interested in software development, backend Developer, and machine learning  
 - 🌱 I’m currently learning advanced Python,  ML algorithms like SVM & Logistic Regression   
