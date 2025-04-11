@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Vijaylande14
 
 - 👀 I’m interested in software development, backend Developer, and machine learning  
-- 🌱 I’m currently learning advanced Python, system design, and ML algorithms like SVM & Logistic Regression  
+- 🌱 I’m currently learning advanced Python,  ML algorithms like SVM & Logistic Regression  
 - 📫 How to reach me: [vijaylande44548@gmail.com] | [LinkedIn Profile](https://www.linkedin.com/in/vijay-lande014/)
 
 ---
