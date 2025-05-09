@@ -50,5 +50,5 @@ During my internship at Brillect, I worked on various Python-related tasks and m
 ---
 
 ## 🔗 Contact
-- 📧 Email: ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) [vijaylande44548@gmail.com]  
-- 🌐 LinkedIn: ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [LinkedIn Profile](https://www.linkedin.com/in/vijay-lande014/)
+- 📧 Email:[Email][vijaylande44548@gmail.com]  
+- 🌐 LinkedIn:![LinkedIn Profile](https://www.linkedin.com/in/vijay-lande014/)
