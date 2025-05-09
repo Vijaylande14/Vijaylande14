@@ -51,7 +51,7 @@ During my internship at Brillect, I worked on various Python-related tasks and m
 ![VS Code Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![Git Logo](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub Logo](https://img.icons8.com/glyph-neue/48/000000/github.png)
-![Redis Logo](https://img.icons8.com/ios-filled/50/000000/redis.png) 
+
 
 
 ---
