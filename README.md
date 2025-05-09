@@ -28,15 +28,15 @@ During my internship at Brillect, I worked on various Python-related tasks and m
 - Logistic Regression  
 
 ## 📊 Machine Learning Libraries
-![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg)
-![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40px" height="40px" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="40px" height="40px" /> 
 
 ## 📊 Data Science Libraries
-![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)
-![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
-![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
-![SciPy Logo](https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40px" height="40px" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40px" height="40px" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40px" height="40px" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40px" height="40px" />
+
 
 
 ## 📊 Web Development Frameworks
