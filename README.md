@@ -28,14 +28,15 @@ During my internship at Brillect, I worked on various Python-related tasks and m
 - Logistic Regression  
 
 ## 📊 Machine Learning Libraries
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40px" height="40px" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="40px" height="40px" /> 
+![TensorFlow](https://img.shields.io/badge/-white?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/-white?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 
 ## 📊 Data Science Libraries
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40px" height="40px" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40px" height="40px" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40px" height="40px" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40px" height="40px" />
+![NumPy](https://img.shields.io/badge/-white?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/-white?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/-white?style=for-the-badge&logo=plotly&logoColor=003C60)
+![SciPy](https://img.shields.io/badge/-white?style=for-the-badge&logo=scipy&logoColor=8CA0FF)
+
 
 
 
