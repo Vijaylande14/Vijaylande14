@@ -28,14 +28,16 @@ During my internship at Brillect, I worked on various Python-related tasks and m
 - Logistic Regression  
 
 ## 📊 Machine Learning Libraries
-![TensorFlow Logo](https://img.icons8.com/color/48/000000/tensorflow.png)
-![PyTorch Logo](https://img.icons8.com/color/48/000000/pytorch.png)
+![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg)
+![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)
+
 
 ## 📊 Data Science Libraries
-![NumPy Logo](https://img.icons8.com/color/48/000000/numpy.png)
-![Pandas Logo](https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-pandas-a-data-analysis-library-for-the-python-programming-language-logo-soft-fill-juicy-fish.png)
-![Matplotlib Logo](https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-matplotlib-a-python-library-for-creating-static-animated-and-interactive-visualizations-logo-soft-fill-juicy-fish.png)
-![SciPy Logo](https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-scipy-a-python-library-used-for-scientific-and-technical-computing-logo-soft-fill-juicy-fish.png)
+![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)
+![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
+![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
+![SciPy Logo](https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg)
+
 
 ## 📊 Web Development Frameworks
 ![Flask Logo](https://img.icons8.com/ios/50/000000/flask.png)
