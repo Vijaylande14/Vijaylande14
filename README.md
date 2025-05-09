@@ -10,14 +10,16 @@ During my internship at Brillect, I worked on various Python-related tasks and m
 ---
 
 ## 💻 Frontend Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png)
 
 ## 💻 Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+
+![Python Logo](https://img.icons8.com/color/48/000000/python--v1.png)
+![C Logo](https://img.icons8.com/color/48/000000/c-programming.png)
+![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+
 
 ## 📊 Concepts & Skills
 
@@ -25,26 +27,28 @@ During my internship at Brillect, I worked on various Python-related tasks and m
 - SVM (Support Vector Machine)  
 - Logistic Regression  
 
-**Machine Learning Libraries**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+## 📊 Machine Learning Libraries
+![TensorFlow Logo](https://img.icons8.com/color/48/000000/tensorflow.png)
+![PyTorch Logo](https://img.icons8.com/color/48/000000/pytorch.png)
 
-**Data Science Libraries**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003C60?style=flat&logo=matplotlib&logoColor=white)   
-![SciPy](https://img.shields.io/badge/SciPy-8CA0FF?style=flat&logo=scipy&logoColor=white)  
+## 📊 Data Science Libraries
+![NumPy Logo](https://img.icons8.com/color/48/000000/numpy.png)
+![Pandas Logo](https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-pandas-a-data-analysis-library-for-the-python-programming-language-logo-soft-fill-juicy-fish.png)
+![Matplotlib Logo](https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-matplotlib-a-python-library-for-creating-static-animated-and-interactive-visualizations-logo-soft-fill-juicy-fish.png)
+![SciPy Logo](https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-scipy-a-python-library-used-for-scientific-and-technical-computing-logo-soft-fill-juicy-fish.png)
 
-**Web Development Frameworks**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+## 📊 Web Development Frameworks
+![Flask Logo](https://img.icons8.com/ios/50/000000/flask.png)
+![Django Logo](https://img.icons8.com/color/48/000000/django.png)
+
 
 ---
 
 ## 🛠 Tools I Use
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![Git Logo](https://img.icons8.com/color/48/000000/git.png)
+![GitHub Logo](https://img.icons8.com/glyph-neue/48/000000/github.png)
+![Redis Logo](https://img.icons8.com/ios-filled/50/000000/redis.png) 
 
 
 ---
