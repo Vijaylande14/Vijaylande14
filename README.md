@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vijay Lande
-I'm a Python Developer based in Nagpur, Maharashtra.
+I'm a Python Developer.
 
 I specialize in Machine Learning, Backend Development, and Data Science. Currently, I’m deepening my expertise in advanced Python and diving into machine learning algorithms like SVM and Logistic Regression. I enjoy leveraging frameworks like Flask and Django to build robust web applications, while always staying curious about integrating AI-driven solutions into my projects.
 
@@ -32,8 +32,7 @@ During my internship at Brillect, I worked on various Python-related tasks and m
 **Data Science Libraries**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003C60?style=flat&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-008C72?style=flat&logo=seaborn&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003C60?style=flat&logo=matplotlib&logoColor=white)   
 ![SciPy](https://img.shields.io/badge/SciPy-8CA0FF?style=flat&logo=scipy&logoColor=white)  
 
 **Web Development Frameworks**  
