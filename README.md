@@ -23,9 +23,16 @@ During my internship at Brillect, I worked on various Python-related tasks and m
 
 ## 📊 Concepts & Skills
 
-**Machine Learning**  
-- SVM (Support Vector Machine)  
-- Logistic Regression  
+### 🤖 Machine Learning Concepts
+- SVM (Support Vector Machine)
+- Logistic Regression
+
+### 📚 OOPs Concepts
+- Class and Object
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
 
 ## 📊 Machine Learning Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
