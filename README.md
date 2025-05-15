@@ -5,7 +5,7 @@ I specialize in **Machine Learning, Backend Development**, and **Data Science**.
 
 During my internship at **Brillect Tech Solutions Pvt Ltd**, I worked on various Python-related tasks and machine learning projects, which helped me develop both my technical abilities and problem-solving skills.
 
-"I hold an **MCA from G.H. Raisoni University**, and have a strong foundation in machine learning. I’m always seeking to expand my knowledge and apply it to real-world applications that make an impact. 🚀"
+"I completed my **MCA from G.H. Raisoni University** and built a strong foundation in machine learning. I’m driven by a passion to keep learning and applying my knowledge to create real-world solutions that make a difference. 🚀"
 
 ---
 
