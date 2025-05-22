@@ -9,36 +9,36 @@ I completed my **MCA from G.H. Raisoni University Amravati** and built a strong 
 
 ---
 
-## 💻 Frontend Development
+## 💻 Frontend Development:
 ![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png)
 
-## 💻 Backend Development
+## 💻 Backend Development:
 
 ![Python Logo](https://img.icons8.com/color/48/000000/python--v1.png)
 ![C Logo](https://img.icons8.com/color/48/000000/c-programming.png)
 ![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 
 
-## 📊 Concepts & Skills
+## 📊 Concepts & Skills:
 
-### 🤖 Machine Learning Concepts
+### 🤖 Machine Learning Concepts:
 - SVM (Support Vector Machine)
 - Logistic Regression
 
-### 📚 OOPs Concepts
+### 📚 OOPs Concepts:
 - Class and Object
 - Inheritance
 - Polymorphism
 - Encapsulation
 - Abstraction
 
-## 📊 Machine Learning Libraries
+## 📊 Machine Learning Libraries:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-## 📊 Data Science Libraries
+## 📊 Data Science Libraries:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003C60?style=flat&logo=matplotlib&logoColor=white)
@@ -47,14 +47,14 @@ I completed my **MCA from G.H. Raisoni University Amravati** and built a strong 
 
 
 
-## 📊 Web Development Frameworks
+## 📊 Web Development Frameworks:
 ![Flask Logo](https://img.icons8.com/ios/50/000000/flask.png)
 ![Django Logo](https://img.icons8.com/color/48/000000/django.png)
 
 
 ---
 
-## 🛠 Tools I Use
+## 🛠 Tools I Use:
 ![VS Code Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![Git Logo](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub Logo](https://img.icons8.com/glyph-neue/48/000000/github.png)
@@ -63,7 +63,7 @@ I completed my **MCA from G.H. Raisoni University Amravati** and built a strong 
 
 ---
 
-## 🔗 Contact
+## 🔗 Contact:
 
 [![Gmail Logo](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:vijaylande44548@gmail.com)
 [![LinkedIn Logo](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/vijay-lande014/)
