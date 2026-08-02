@@ -5,7 +5,7 @@ I specialize in **Machine Learning, Backend Development**, and **Data Science**.
 
 During my internship at **Brillect Tech Solutions Pvt Ltd Nagpur**, I worked on various Python-related tasks and machine learning projects, which helped me develop both my technical abilities and problem-solving skills.
 
-I completed my **MCA from G.H. Raisoni University Amravati** and built a strong foundation in machine learning. I’m passionate about learning and applying my skills to solve real-world challenges. 🚀
+I completed my **MCA from G.H. Raisoni University Amravati** and built a strong foundation in machine learning. I’m passionate about learning and applying my skills to solve real-world challenges.🚀
 
 ---
 
@@ -58,8 +58,6 @@ I completed my **MCA from G.H. Raisoni University Amravati** and built a strong 
 ![VS Code Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![Git Logo](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub Logo](https://img.icons8.com/glyph-neue/48/000000/github.png)
-
-
 
 ---
 
