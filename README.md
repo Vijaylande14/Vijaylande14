@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vijay Lande
 I'm a **Python Developer**.
 
-I specialize in **Machine Learning, Backend Development**, and **Data Science**. Currently, I’m deepening my expertise in **advanced Python** and diving into **machine learning algorithms** like SVM and Logistic Regression. I enjoy leveraging frameworks like **Flask** and **Django** to build robust web applications, while always staying curious about integrating AI-driven solutions into my projects.
+I specialize in **Machine Learning, Backend Development**, and **Data Science**. Currently, I’m improving my skills in **Python** and diving into **machine learning algorithms** like SVM and Logistic Regression. I enjoy leveraging frameworks like **Flask** and **Django** to build robust web applications, while always staying curious about integrating AI-driven solutions into my projects.
 
 During my internship at **Brillect Tech Solutions Pvt Ltd Nagpur**, I worked on various Python-related tasks and machine learning projects, which helped me develop both my technical abilities and problem-solving skills.
 
